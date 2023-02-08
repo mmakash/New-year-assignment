@@ -81,7 +81,8 @@
     font-weight: 500;
 }
 .img-section{
-    background-image: url("/images/watch.png");
+    background-image: linear-gradient(to right,#F15B22,rgba(0,0,0,0.7),
+    rgba(0,0,0,0.7)),url("/images/watch.png");
     background-repeat: no-repeat;
     height: 300px;
     width: 1141px;
