@@ -57,3 +57,26 @@ i{
 .failure-description{
     margin-top: 16px;
 }
+.plans{
+    display: flex;
+    width: 1141px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.plans-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-top: 130px;
+}
+.plan-title{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+.plan-description{
+    font-size: 25px;
+    font-weight: 500;
+}
