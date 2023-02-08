@@ -33,3 +33,27 @@
     left: 810px;
     bottom: -300px;
 }
+i{
+    color: #16D887;
+    font-size: 15px;
+    margin-right: 5px;
+}
+.failure-section{
+    display: flex;
+    align-items: center;
+    width: 1072px;
+    margin: 0 auto;
+    justify-content: space-around;
+    margin-top: 130px;
+}
+.failure-img{
+    width: 451px;
+}
+.failure-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.failure-description{
+    margin-top: 16px;
+}
