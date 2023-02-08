@@ -104,6 +104,24 @@
     background-color: white;
     color: orange;
 }
+.skill-img1{
+    width: 75px;
+}
+.skill-img2{
+    width: 55px;
+}
+.skill-section{
+    display: flex;
+    width: 1141px;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.skill-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
 .my-footer{
     display: flex;
     width: 1141px;
