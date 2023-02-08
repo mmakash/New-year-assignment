@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url("/images/banner/banner2.png");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.header-title{
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.header-description{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+.btn{
+    background-color: #F15B22;
+    border: none;
+    color: white;
+    padding: 20px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.header-element{
+    width: 40%;
+    position: relative;
+    left: 810px;
+    bottom: -300px;
+}
